@@ -1,0 +1,11 @@
+{
+  "name": "azure-static-web-apps",
+  "version": "1.0.0",
+  "description": "azure static web app tempalte repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
