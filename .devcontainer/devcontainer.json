@@ -15,5 +15,6 @@
 				"github.vscode-pull-request-github"
 			]
 		}
-	}
+	},
+	"shutdownAction": "stopContainer"
 }
