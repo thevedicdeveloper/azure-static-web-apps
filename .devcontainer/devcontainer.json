@@ -1,5 +1,5 @@
 {
-	"name": "Node.js & TypeScript",
+	"name": "Azure Static Web App",
 	"image": "mcr.microsoft.com/devcontainers/typescript-node:1-18-bullseye",
 	"features": {
 		"ghcr.io/devcontainers/features/azure-cli:1": {}
